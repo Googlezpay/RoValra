@@ -3,27 +3,27 @@
         "serverShare": "Share",
         "serverCopied": "Copied!",
         "recentServerTitle": "Server",
-        "decalOptions": "Image options"
+        "decalOptions": "Opsi gambar"
     },
     "common": {
-        "select": "Select...",
-        "search": "Search",
-        "rovalraSettings": "RoValra Settings",
+        "select": "Pilih...",
+        "search": "Cari",
+        "rovalraSettings": "Pengaturan RoValra",
         "filterItems": "Filter Items",
-        "applyFilter": "Apply Filter",
-        "uploadFile": "Upload File",
-        "change": "Change",
-        "invalidFileFormat": "Invalid file format.",
-        "invalidImageFile": "Invalid file format. Please upload a valid image.",
-        "fileProcessingFailed": "File processing failed. Please try another file.",
-        "errorProcessingFile": "Error processing file. Please try another file.",
-        "less": "Less",
-        "more": "More",
-        "pastYear": "Past Year",
-        "past6Months": "Past 6 Months",
-        "past3Months": "Past 3 Months",
-        "pastMonth": "Past Month",
-        "pastWeek": "Past Week",
+        "applyFilter": "Terapkan Filter",
+        "uploadFile": "Unggah File",
+        "change": "Ganti",
+        "invalidFileFormat": "Format file tidak valid.",
+        "invalidImageFile": "Format file tidak valid. Mohon unggah Gambar yang valid.",
+        "fileProcessingFailed": "Gagal saat Memprosses file. Coba file yang lain.",
+        "errorProcessingFile": "Terjadi errror saat memprosses file. Coba file yang lain.",
+        "less": "Lebih sedikit",
+        "more": "Selengkapnya",
+        "pastYear": "Tahun lalu",
+        "past6Months": "6 Bulan terakhir",
+        "past3Months": "3 Bulan terakhir",
+        "pastMonth": "Bulan lalu",
+        "pastWeek": "Minggu lalu",
         "unnamedProduct": "Unnamed Product",
         "offSale": "Off Sale",
         "robloxExperience": "Roblox Experience",
@@ -31,59 +31,59 @@
         "subplaceUpper": "SUBPLACE",
         "offline": "Offline",
         "website": "Website",
-        "playing": "Playing",
-        "playingGame": "Playing {{gameName}}",
+        "playing": "Bermain",
+        "playingGame": "Bermain {{gameName}}",
         "studio": "Studio",
         "share": "Share",
         "copied": "Copied!",
-        "free": "Free",
+        "free": "Gratis",
         "unknown": "Unknown",
-        "somethingWentWrong": "Something went wrong",
+        "somethingWentWrong": "Terjadi kesalahan",
         "robloxPlusSubscriber": "Roblox Plus subscriber",
         "joinServerFull": "Join (Server Full)",
         "id": "ID: ",
-        "profile": "Profile",
+        "profile": "Profil",
         "error": "Error",
         "rovalraDeveloper": "RoValra Developer",
-        "close": "Close",
-        "confirmAction": "Confirm Action",
-        "areYouSure": "Are you sure you want to proceed?",
-        "confirm": "Confirm",
-        "cancel": "Cancel"
+        "close": "Tutup",
+        "confirmAction": "Konfirmasi Aksi",
+        "areYouSure": "Apakah anda yakin ingin melanjutkan?",
+        "confirm": "Konfirmasi",
+        "cancel": "Batal"
     },
     "regionSelector": {
-        "gilbertsInYourArea": "Gilberts In Your Area",
+        "gilbertsInYourArea": "Gilberts Di Areamu",
         "title": "RoValra Region Selector",
-        "automatic": "Automatic",
+        "automatic": "Otomatis",
         "servers": "Servers: ",
         "datacenters": "Datacenters: ",
-        "filterByRegion": "Filter servers by region",
-        "filterByRegionItem": "Filter by {{region}} ({{count}} servers)",
-        "filterByUptime": "Filter servers by uptime (newest/oldest)",
-        "filterByVersion": "Filter servers by game version"
+        "filterByRegion": "Filter servers berdasarkan wilayah",
+        "filterByRegionItem": "Filter berdasarkan {{region}} ({{count}} servers)",
+        "filterByUptime": "Filter servers berdasarkan uptime (newest/oldest)",
+        "filterByVersion": "Filter servers berdasarkan versi game"
     },
     "guidelines": {
         "title": "RoValra Guidelines",
-        "message": "By using RoValra, you agree to follow our Terms of Use. Failure to follow these rules may result in the suspension of access to specific features, including status bubbles and pronouns.<br><br><b>Key Takeaways:</b><br>• You cannot direct users off-platform.<br>• You cannot do anything inappropriate.<br>• You must not violate the Roblox Terms of Service.<br><br>Read more at <a href=\"https://www.rovalra.com/tou/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline;\">rovalra.com/tou</a>.",
-        "confirm": "I Understand"
+        "message": "Dengan menggunakan RoValra, anda setuju untuk mengikuti syarat penggunaan. Gagal untuk mengikuti aturan mengakibatkan pembatasan pada fitur tertentu, seperti gelembung status dan pronomina.<br><br><b>Key Takeaways:</b><br>• Anda tidak boleh mengarahkan pengguna ke luar platform.<br>• Kamu tidak boleh melalukan hal yang tidak pantas.<br>• Anda tidak boleh melanggar ketentuan layanan ROBLOX.<br><br>Baca selengkapnya di <a href=\"https://www.rovalra.com/tou/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline;\">rovalra.com/tou</a>.",
+        "confirm": "Saya mengerti"
     },
     "review": {
-        "requestMessage": "It looks like you've been getting value from RoValra!\n Would you mind leaving a review?\n It helps keep RoValra free for everyone without paywalls.",
-        "leaveReview": "Leave a Review",
-        "notNow": "Not right now",
-        "doNotShowAgain": "Do not show again",
-        "rateTitle": "Rate RoValra",
-        "donationMessage": "Running features such as the region selector isn't free, and RoValra completely relies on donations to cover those costs.\n\nDonating helps us keep the servers running so features like this can stay free for everyone.",
-        "donate": "Donate",
-        "donationTitle": "Wanna help support RoValra?"
+        "requestMessage": "Sepertinya anda telah mendapat manfaat dari RoValra!\n Apakah anda mau meninggalkan Ulasan?\n Ulasanmu anda membantu RoValra tetap gratis untuk semua orang tanpa paywall.",
+        "leaveReview": "Tinggalkan Ulasan",
+        "notNow": "Tidak sekarang",
+        "doNotShowAgain": "Jangan tampilkan lagi",
+        "rateTitle": "Nilai RoValra",
+        "donationMessage": "Menjalankan fitur kayak memilih wilayah server tidaklah gratis, dan RoValra bergantung pada donasi untuk menutupi biaya server.\n\nBerdonasi membantu kami untuk menjaga server tetap berjalan sehingga fitur seperi ini tetap gratis untuk semua orang",
+        "donate": "Donasi",
+        "donationTitle": "Mau bantu support RoValra?"
     },
     "heatmap": {
-        "updatesBetween": "Updates between {{start}} - {{end}} on {{date}}",
-        "updatesOn": "Updates on {{date}}",
-        "trackingSince": "Update history has only been tracking since February 15, 2026"
+        "updatesBetween": "Updates antara {{start}} - {{end}} pada {{date}}",
+        "updatesOn": "Updates pada {{date}}",
+        "trackingSince": "Riwayat update Hanya dilacak sejak Februari 15, 2026"
     },
     "profileFeatures": {
-        "title": "RoValra Features"
+        "title": "Fitur RoValra"
     },
     "serverFilters": {
         "newest": "Newest Servers",
@@ -96,16 +96,16 @@
     },
     "serverInfo": {
         "loading": "Loading...",
-        "versionUnknown": "Version Unknown",
-        "version": "Version {{version}}",
-        "versionLabel": "Version",
+        "versionUnknown": "Versi Unknown",
+        "version": "Versi {{version}}",
+        "versionLabel": "Versi",
         "languageMatchCount": "~{{count}} {{language}} speakers",
         "latest": " (Latest)",
         "oldest": " (Oldest)",
-        "serverFull": "Server is Full",
-        "privateServer": "Playing in a private server",
-        "purchaseGame": "Buy game to see regions.",
-        "currentVersionTooltip": "The current version published."
+        "serverFull": "Server sedang penuh",
+        "privateServer": "Bermain di dalam private server",
+        "purchaseGame": "Beli game untuk melihat wilayah.",
+        "currentVersionTooltip": "Versi saat ini yang dipublikasikan."
     },
     "serverStats": {
         "totalServers": "Total Servers",
@@ -2150,7 +2150,7 @@
         }
     },
     "pinnedFriends": {
-        "pin": "Pin to top",
-        "unpin": "Unpin"
+        "pin": "Sematkan ke atas",
+        "unpin": "lepas sematan"
     }
 }
