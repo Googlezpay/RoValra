@@ -44,6 +44,10 @@ export const SETTINGS_CONFIG = {
                         label: languageLabel('Spanish (Español)', 'es'),
                         value: 'es',
                     },
+                    {
+                        label: languageLabel('Indonesia (Bahasa indonesia)', 'id'),
+                        value: 'id',
+                    },
                     { label: 'Automatic', value: 'auto' },
                 ],
                 default: 'en',
