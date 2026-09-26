@@ -49,6 +49,7 @@ export const TRANSLATOR_USER_IDS = [
     '3121706', // AuroxNova
     '48255812', //aliceenight
     '315646839', // imderlord
+    '16147087', // Edward667 (ignore the 667 im not spending 1k robux)
 ];
 
 export const ARTIST_USER_IDS = [
